@@ -1,3 +1,3 @@
 #### MachineLearningStudy
 --
-Some Notes and some codes, Just for fun
+<font color=#0000FF>Some Notes and some codes, Just for fun</font>
